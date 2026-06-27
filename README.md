@@ -1,3 +1,5 @@
+![](monster.jpg)
+
 ## 👋🏻 Hi!
 
 My name is Damien. I'm a senior web application developer based in 🇫🇷 France.
