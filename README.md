@@ -1,4 +1,8 @@
-![](monster.jpg)
+> [!NOTE]
+> Je commence a maintenir un dev log pour suivre et partager mon apprentissage sur le C64, DOS, C, Assembleur, …
+> Vous pouvez retrouver les entrées (en français uniquement) [ici](https://github.com/martin-damien/martin-damien/wiki/dev-log).
+
+---
 
 ## 👋🏻 Hi!
 
